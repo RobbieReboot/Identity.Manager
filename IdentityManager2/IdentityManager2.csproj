@@ -2,17 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Description>IdentityManager is an user management tool for ASP.NET Core Identity. Maintained by Rock Solid Knowledge.</Description>
+    <Description>IdentityManager is an user management tool for ASP.NET Core Identity.</Description>
     <VersionPrefix>1.0.0</VersionPrefix>
     <VersionSuffix>beta5</VersionSuffix>
     <Authors>Scott Brady</Authors>
     <AssemblyName>IdentityManager2</AssemblyName>
-    <PackageId>IdentityManager2</PackageId>
-    <PackageTags>IdentityManager;IdentityManager2;Identity</PackageTags>
-    <PackageIconUrl>https://identityserver.github.io/Documentation/assets/images/icons/IDmanager_icon144.jpg</PackageIconUrl>
-    <PackageProjectUrl>https://github.com/IdentityManager/IdentityManager2</PackageProjectUrl>
-    <PackageLicenseUrl>https://github.com/IdentityManager/IdentityManager2/blob/master/LICENSE</PackageLicenseUrl>
-    <!--<GenerateDocumentationFile>true</GenerateDocumentationFile>-->
   </PropertyGroup>
 
   <ItemGroup>

@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IdentityManager2.AspNetIdentity" Version="1.0.0-beta3" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
   </ItemGroup>
@@ -14,6 +13,7 @@
   <ItemGroup>
     <ProjectReference Include="..\Identity.DbContexts\Identity.DbContexts.csproj" />
     <ProjectReference Include="..\Identity.TokenService.Types\Identity.TokenService.Types.csproj" />
+    <ProjectReference Include="..\IdentityManager2\IdentityManager2.csproj" />
   </ItemGroup>
 
 </Project>

@@ -4,7 +4,6 @@ using System.Linq;
 using System.Threading.Tasks;
 using Identity.DbContexts;
 using Identity.TokenService.Types;
-using IdentityManager2.AspNetIdentity;
 using IdentityManager2.Configuration;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
